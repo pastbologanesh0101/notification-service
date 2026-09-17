@@ -1,0 +1,12 @@
+Subject: Your order {{ order_id }} has shipped!
+
+Hi {{ user_name }},
+
+Good news! Your order {{ order_id }} is on its way via {{ carrier }}.
+You can track it here:
+
+{{ tracking_url }}
+
+Estimated delivery: {{ eta }}.
+
+Thanks for shopping with {{ product_name }}!

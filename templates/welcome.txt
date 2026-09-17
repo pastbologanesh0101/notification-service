@@ -1,0 +1,11 @@
+Subject: Welcome to {{ product_name }}, {{ user_name }}!
+
+Hi {{ user_name }},
+
+Welcome aboard! Your account for {{ product_name }} has been created
+using the email {{ email }}.
+
+If you have any questions, just reply to this message.
+
+Cheers,
+The {{ product_name }} Team
